@@ -9,6 +9,6 @@ To write command line applications in Node.js
 ## Drivers: 
 * To write/learn command line options in Node.js
 * Talk to an API with Node.js
-* Organize your code with modules
+* Organize my code with modules
 * Deal with streams
 * Handle errors
