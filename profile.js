@@ -11,9 +11,9 @@ const http = require('http');
 /*
  * Prints message to the console
  *
- * @param string username    name of user
- * @param int    badgecount  number of earned badges
- * @param int    points      number of JavaScript points
+ * @param string    username    name of user
+ * @param number    badgecount  number of earned badges
+ * @param number    points      number of JavaScript points
  *
  */
 function printMessage(username, badgeCount, points) {
