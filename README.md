@@ -7,8 +7,8 @@ This repository contains files and documentation created during the setup, creat
 To write command line applications in Node.js
 
 ## Drivers: 
-To write/learn command line options in Node.js
-Talk to an API with Node.js
-Organize your code with modules
-Deal with streams
-Handle errors
+*To write/learn command line options in Node.js
+*Talk to an API with Node.js
+*Organize your code with modules
+*Deal with streams
+*Handle errors
